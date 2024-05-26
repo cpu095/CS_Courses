@@ -83,9 +83,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考
 ```
 ## :page_facing_up: 许可 | License
 
-由**贡献者编写部分**的许可如下：
-
-[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+由**贡献者编写部分**的许可：[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 **其他部分的版权**归属于其各自的作者。
 
