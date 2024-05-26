@@ -94,16 +94,6 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考
 
 如果您认为本仓库的一些文件侵犯了您的权益，请[向我们发送邮件](jsxbjpjst@126.com) 。我们将会从仓库中彻底清除这些文件。
 
-## :page_facing_up: 许可 | License
-
-由贡献者编写部分的许可如下：
-
-[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-
-其他部分的版权归属于其各自的作者。
-
-资料仅供参考，课程内容及重点可能发生变化，请以老师上课实际讲授为准。
-
 ## :star2: 关注 | Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=HIT-FC-OpenCS/CS_Courses&type=Date)
