@@ -70,6 +70,7 @@
 - 22 年期末试题回忆版：https://blog.csdn.net/weixin_52027058/article/details/128060862
 - 教材习题参考答案（强烈不建议抄袭）：https://blog.csdn.net/weixin_45735391/article/details/127336659
 - 网络课程资源——刘宏伟老师：https://www.bilibili.com/video/BV1t4411e7LH/?spm_id_from=333.337.searchcard.all.click
+- 大作业设计参考——\[图灵完备×计组\] —— 基于《图灵完备》的32位MIPS架构单周期CPU的设计与实现： https://www.bilibili.com/video/BV1xgTRegEiM
 
   
 ### 参考书目
