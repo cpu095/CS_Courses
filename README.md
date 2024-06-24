@@ -1,14 +1,44 @@
-# 哈工大计算学部金牌讲师团 | 课程资料共享
+<div align="center">
+    <img src="LOGO.png" alt="计算学部 | 课程资料共享计划">
+</div>
+<p align="center">
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/watchers">
+    <img src="https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&color=blue" alt="Github Watchers">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/stargazers">
+    <img src="https://img.shields.io/github/stars/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=stars&color=yellow" alt="Github Stars">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/network/members">
+    <img src="https://img.shields.io/github/forks/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=forks&color=green" alt="Github Forks">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses">
+    <img src="https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&color=orange" alt="Github Repository Size">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/commits/main/">
+    <img src="https://img.shields.io/github/last-commit/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=last-commit&color=teal" alt="GitHub last commit">
+  </a>
+</p>
 
-[![Github Watchers](https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&color=blue)](https://github.com/HIT-FC-OpenCS/CS_Courses/watchers)  [![Github Stars](https://img.shields.io/github/stars/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=stars&color=yellow)](https://github.com/HIT-FC-OpenCS/CS_Courses/stargazers)  [![Github Forks](https://img.shields.io/github/forks/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=forks&color=green)](https://github.com/HIT-FC-OpenCS/CS_Courses/network/members)  [![Github Repository Size](https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&color=orange)](https://github.com/HIT-FC-OpenCS/CS_Courses)
+
+
+## :ledger: 计算学部 | 课程资料共享计划
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
-感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)
+感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)、[pmczx](https://github.com/pmczx)、[HITjunle](https://github.com/HITjunle)、[Dodojordi](https://github.com/Dodojordi)、[HITLittleZheng](https://github.com/HITLittleZheng)、[WhtyBi](https://github.com/WhtyBi)、[wangziyu12](https://github.com/wangziyu12)、[FlyMachinee](https://github.com/FlyMachinee)
+
+## :fire: 更新 | News
+
+- [24/03/05] :bento: 上传LOGO
+- [24/03/02] :tada: 我们制作的前端网页正式上线 https://hit-fc-opencs.github.io/CS_Courses/ ！
+- [24/01/10] :tada: Github课程资料共享平台正式启动！
+
+<details><summary>Full News</summary>
+</details>
 
 ## :sparkles: 愿景 | Vision
 
-**此仓库主要包括金牌讲师团在同学们学习过程中的学业支持活动记录，主要包括开箱手册、期末复习讲座及复习手册等资料**
+**此仓库主要包括金牌讲师团在同学们学习过程中的学业支持活动记录整理收集，主要包括开箱手册、期末复习讲座及复习手册等资料**
 
 **同时也希望更多同学参与到本项目，旨在打破信息壁垒，减少同学对课程学习的不熟悉，帮助各位同学更好的找到合适的学习方法及资料，学长学姐们的经验也可以很大程度上帮助到学弟学妹们！**
 
@@ -18,7 +48,7 @@
 
 **欢迎贡献，炬火煌煌相递传！** :blush:
 
-Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个repo继续存在的动力~
+Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考试真题、攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个repo继续存在的动力~
 
 电脑前的您请不要吝啬，您的作品一旦被合并至该仓库中，有可能会被无数学弟学妹仰慕。我们需要您的 PR！
 
@@ -30,7 +60,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 
 ## :clipboard: 目录 | Content
 
-为便于查找，此 repo 将公共课必修课以及各个专业专业课放在不同的目录下，具体基本按照以下形式组织，请各位同学提交时注意命名规范，便于大家及时找到您的作品或经验~
+为便于查找，此 repo 将公共课必修课以及各个专业专业课放在不同的目录下，具体基本按照以下形式组织，请各位同学提交时注意命名规范（**文件名请一定不要有空格**），便于大家及时找到您的作品或经验~
 
 ```
 |──公共必修课/[专业]必修课
@@ -51,6 +81,13 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
     ......
 |──公共必修课/[专业]必修课
 ```
+## :page_facing_up: 许可 | License
+
+由**贡献者编写部分**的许可：[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+**其他部分的版权（如课程PPT、课程笔记、复习讲座资料等）** 归属于其各自的作者，可供同学们之间内部自由传播，禁止商用，如需转载至CSDN、Github等公开平台，请先致信[我们](jsxbjpjst@126.com)获得授权
+
+资料仅供参考，课程内容及重点可能发生变化，请以老师上课实际讲授为准。
 
 ## :rotating_light: 警告 | Warning
 
@@ -64,12 +101,6 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 
 如果您认为本仓库的一些文件侵犯了您的权益，请[向我们发送邮件](jsxbjpjst@126.com) 。我们将会从仓库中彻底清除这些文件。
 
-## :page_facing_up: 许可 | License
+## :star2: 关注 | Star History
 
-由贡献者编写部分的许可如下：
-
-[CC-BY-NC-SA：署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-
-其他部分的版权归属于其各自的作者。
-
-资料仅供参考，课程内容及重点可能发生变化，请以老师上课实际讲授为准。
+![Star History Chart](https://api.star-history.com/svg?repos=HIT-FC-OpenCS/CS_Courses&type=Date)

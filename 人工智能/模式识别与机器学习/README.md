@@ -16,7 +16,7 @@
 
 - 深度学习（多层感知机MLP、卷积神经网络CNN、深度生成模型VAE、循环神经网络RNN和LSTM、机器翻译模型Transformer）
 
-但是后续可能有变动，请以当年老师大纲为准。如果以后有志于从事人工智能相关职业和研究的同学，本门课应该作为长期学习的基础
+但是后续可能有变动，请以当年老师大纲为准。如果以后有志于从事人工智能相关职业和研究的同学，本门课应该作为长期学习的基础，并加强实操能力
 
 #### 2. 关于授课
 
@@ -50,6 +50,22 @@
 ### 一些可能有用的资源
 
 - 李宏毅老师机器学习网课（也可以找前几年的）：[ML 2023 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+- 李宏毅老师生成式人工智慧導論：[GENERATIVE AI 2024 SPRING (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
+- B站跟李沐学AI：[动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- B站吴恩达机器学习：[吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx/)
+- 知乎学长知识总结：[哈工大-CS-机器学习-期末复习](https://zhuanlan.zhihu.com/p/413819081)
+- 机器学习回忆往年题（**课程内容已变化，仅供参考**）
+  - 2018年秋季机器学习相关资料：https://github.com/MingyanZHU/machine_learning
+  - 2019秋机器学习回忆：https://github.com/Stuyxr/HIT-MachineLearning
+  - 2020秋机器学习回忆：https://blog.51cto.com/u_15443779/4717030
+  - 2021秋机器学习回忆：https://blog.csdn.net/weixin_48751654/article/details/121455489
+  - 2022秋机器学习回忆：https://blog.csdn.net/weixin_52027058/article/details/127599425
+- 模式识别与深度学习回忆往年题（**课程内容已变化，仅供参考**）
+  - 2021深度学习与模式识别回忆：https://blog.csdn.net/qq_43887432/article/details/118492953
+  - 2022深度学习与模式识别回忆：https://blog.csdn.net/weixin_48751654/article/details/125212607
+  - 2023模式识别与深度学习回忆：https://blog.csdn.net/sanjinpal/article/details/131262641
+
+
 
 ### 学习经验
 
